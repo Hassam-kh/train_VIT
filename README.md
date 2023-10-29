@@ -1,5 +1,5 @@
 # train_VIT
-I have trained VIT transformer on set of images having binary class [0,1] using keras.
+I have trained VIT transformer on set of images having binary class [0,1] using keras and pytorch.
 dataset_link "https://zenodo.org/record/3784345"
 # Remember
 download the dataset and them merge them according to class. **Check the CSV provided** For example:
